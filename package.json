@@ -1,0 +1,25 @@
+{
+  "name": "jotform-for-react",
+  "version": "0.0.1",
+  "description": "A Jotform component for React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakej115/jotform-for-react.git"
+  },
+  "keywords": [
+    "react",
+    "jotform",
+    "nextjs",
+    "gatsby"
+  ],
+  "author": "blakej115",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blakej115/jotform-for-react/issues"
+  },
+  "homepage": "https://github.com/blakej115/jotform-for-react#readme"
+}
